@@ -1,2 +1,2 @@
 # IFT6758
-Data Science
+Data Science class at MILA. 
